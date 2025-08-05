@@ -1,0 +1,19 @@
+# Dataset setting
+data_dir: /your/data/path # path to data
+batch_size: 32
+num_parts: 31 # num of data to use
+families: # specify dataset
+  - FlatVel_A
+  - FlatVel_B
+  - Style_A
+  - Style_B
+  - CurveVel_A
+  - CurveVel_B
+
+# Training
+epochs: 50
+lr: 1.0e-3
+
+# Huggingface setting
+repo_id: yourname/repo
+

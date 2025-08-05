@@ -1,0 +1,13 @@
+torch
+torchaudio
+timm
+monai
+wandb
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+huggingface_hub
+kagglehub
+python-dotenv

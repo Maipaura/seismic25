@@ -1,0 +1,14 @@
+# Dataset setting
+data_dir: ./datasets 
+batch_size: 32
+num_parts: 1 
+families: 
+  - FlatVel_A
+
+# Training
+epochs: 1
+lr: 1.0e-3
+
+# Huggingface setting
+repo_id: growingduck/yalegithubtest
+
