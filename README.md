@@ -9,7 +9,9 @@ A deep learning pipeline for seismic velocity inversion using ConvNeXt and spect
 This project was developed as part of my personal research on representation of signals. It explores the application of 2D Mel-spectrograms to seismic full waveform inversion (FWI) using the Yale OpenFWI dataset.
 
 Inspired by and adapted from [Brendan Artley’s Kaggle baseline](https://www.kaggle.com/code/brendanartley/convnext-full-resolution-baseline).
-(Data from [seshurajup's work](https://www.kaggle.com/datasets/seshurajup/waveform-inversion-1))
+
+Data from [seshurajup's work](https://www.kaggle.com/datasets/seshurajup/waveform-inversion-1)
+
 ---
 
 ## Features
