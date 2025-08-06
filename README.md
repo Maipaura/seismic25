@@ -1,4 +1,4 @@
-# OpenFWI EnsembleNet
+# OpenFWI representation experiment
 
 A deep learning pipeline for seismic velocity inversion using ConvNeXt and spectrogram-based signal representations.
 
